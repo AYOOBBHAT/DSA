@@ -25,7 +25,7 @@ class Node{
         cin>>d;
         if(d==-1){
             return NULL;
-
+ 
         }
 
         Node*n=new Node(d);
